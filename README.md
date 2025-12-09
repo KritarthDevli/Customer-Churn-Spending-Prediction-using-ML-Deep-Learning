@@ -50,6 +50,7 @@ TensorFlow / Keras – deep learning model
 Jupyter Notebook – development environment
 
 🔧 Project Workflow
+
 1️⃣ Load & Inspect Data
 
 Display head, info, summary statistics
